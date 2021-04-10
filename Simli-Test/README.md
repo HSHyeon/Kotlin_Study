@@ -1,1 +1,2 @@
-심리테스트 토이프로젝트
+# Simli-test
+🔮Kotlin Toy Project
