@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimliTestPrac</string>
+    <string name="main_title">가을 낙엽으로 \n알아보는 심리테스트</string>
+    <string name="question">가을에 산책길을 걷는 당신,\n발 밑에서 주워 든 낙엽은 무엇일까요?</string>
+    <string name="option_1">빨간 단풍잎</string>
+    <string name="option_2">노란 은행잎</string>
+    <string name="option_3">나뭇잎 가지</string>
+    <string name="option_4">플라타너스 잎</string>
+    <string name="result">플라타너스 잎</string>
+</resources>
